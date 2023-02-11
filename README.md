@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile
 
-Hello! I am a Web and Visual Motion Designer with expertise in Wordpress and Prestashop. Currently, I am taking on the challenge of becoming a Full Stack Developer at CODECOOL.
+Hello! I am a Web and Visual Motion Designer with expertise in Wordpress. Currently, I am taking on the challenge of becoming a Full Stack Developer at CODECOOL.
 
 ## My Skills
 
